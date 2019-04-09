@@ -1,2 +1,2 @@
 # sweethearts
-the task of this APP, is to perform a calculation of compatibility from the names of lovers.
+This application performs the calculation of loving compatibility of the lovers, just by putting their names.
